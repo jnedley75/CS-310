@@ -8,6 +8,7 @@ public class LexicalSyntaxAnalyzer {
     public boolean program(){
         /*
             check for keyword procedure
+            TEST TES TESTT
             then scan name
             check for keyword begin that follows name
             calls for stmtList
