@@ -98,7 +98,7 @@ public class LexicalSyntaxAnalyzer {
     
      public boolean notequal_op(){
         /*
-            Checks to see if '!=' is the token
+            Checks to see if '!=' is the tokens
          */
         return false;
     }
